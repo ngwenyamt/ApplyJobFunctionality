@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ILAB Apply Job functionality Test Report" verbose="1">
+    <test name="ILAB Apply Job functionality">
+        <classes>
+            <class name="testRunner.RunnerClass"/>
+        </classes>
+    </test>
+</suite>
